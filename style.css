@@ -1,0 +1,48 @@
+body{
+  background: #f0960f;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100%;
+  
+}
+
+.container{
+  width: 800px;
+  margin: 250px auto;
+  color: white;
+  text-align: center;
+  
+}
+
+h1,h2,h3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  font-size: 2.6rem;
+  text-transform: capitalize;
+  
+}
+
+#seconds,
+#tens{
+  font-size: 2rem;
+}
+
+button{
+  width: 150px;
+  height: 50px;
+  background: transparent;
+  color: whitesmoke;
+  border: 2px solid white;
+  border-radius: 5px;
+  margin-right: 10px;
+  outline: none;
+
+  
+}
+
+button:hover{
+  background: white;
+  color: #f0960f;
+  font-weight: normal;
+  text-transform: capitalize;
+
+}
